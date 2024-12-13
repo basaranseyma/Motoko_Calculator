@@ -18,7 +18,7 @@ Simply click the [this link](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id
 
 ## Screen Recording
 
-Here is a short demo of how it works:
+Here is a short demo of how I made it:
 
 ![Working Demo](https://github.com/basaranseyma/Motoko_Calculator/blob/main/Motoko_Calculator.gif)
 
