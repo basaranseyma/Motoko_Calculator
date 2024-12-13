@@ -3,7 +3,7 @@ This is my first Motoko project. I created a simple calculator to demonstrate ba
 
 ## About the Project
 
-- **Technology Used:** Motoko, Internet Computer
+- **Technology Used:** [Motoko Playground](https://play.motoko.org/), Internet Computer
   
 - **Features:**
   - Addition
