@@ -14,7 +14,7 @@ This is my first Motoko project. I created a simple calculator to demonstrate ba
   
 ## How to Use
 
-Simply click the [this link](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=25x2w-paaaa-aaaab-qackq-cai&tag=1&did=c2VydmljZSA6IHsKICBib2xtZTogKGludCkgLT4gKG9wdCBpbnQpOwogIGNhcnBtYTogKGludCkgLT4gKGludCk7CiAgY2lrYXJtYTogKGludCkgLT4gKGludCk7CiAgdGVtaXpsZTogKCkgLT4gKCk7CiAgdG9wbGFtYTogKGludCkgLT4gKGludCk7Cn0K) and start using the calculator. It's straightforward and beginner-friendly!
+Simply click [this link](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=25x2w-paaaa-aaaab-qackq-cai&tag=1&did=c2VydmljZSA6IHsKICBib2xtZTogKGludCkgLT4gKG9wdCBpbnQpOwogIGNhcnBtYTogKGludCkgLT4gKGludCk7CiAgY2lrYXJtYTogKGludCkgLT4gKGludCk7CiAgdGVtaXpsZTogKCkgLT4gKCk7CiAgdG9wbGFtYTogKGludCkgLT4gKGludCk7Cn0K) and start using the calculator. It's straightforward and beginner-friendly!
 
 ## Screen Recording
 
