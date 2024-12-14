@@ -3,7 +3,7 @@ This is my first Motoko project. I created a simple calculator to demonstrate ba
 
 ## About the Project
 
-- **Technology Used:** [Motoko Playground](https://play.motoko.org/), Internet Computer
+- **Technology Used:** [Motoko Playground](https://play.motoko.org/)
   
 - **Features:**
   - Addition
@@ -18,7 +18,7 @@ Simply click the [this link](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id
 
 ## Screen Recording
 
-Here is a short demo of how I made it:
+Here's a GIF showing how I wrote this code using [Motoko Playground](https://play.motoko.org/):
 
 ![Working Demo](https://github.com/basaranseyma/Motoko_Calculator/blob/main/Motoko_Calculator.gif)
 
